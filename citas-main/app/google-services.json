@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852531825245",
+    "project_id": "citas-ba5f2",
+    "storage_bucket": "citas-ba5f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852531825245:android:7396d4e12fea4c5d32dbb4",
+        "android_client_info": {
+          "package_name": "com.mario.citas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852531825245-ap7g530p7236j9lm298oijmpl6sqf1o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7biwRvLpe2nh2d7vRdrG1gOA1rCk-RYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852531825245-ap7g530p7236j9lm298oijmpl6sqf1o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
